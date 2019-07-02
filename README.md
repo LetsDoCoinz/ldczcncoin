@@ -15,7 +15,7 @@ generate addtress - compile wallet and generate address https://github.com/LetsD
 
 short web mining link
 
-https://jefreesujit.github.io/easyminer/miner?pool=188.166.100.77&port=3333&currency=coins&address=inzFctJpigTFnn4QSydDd67ypVNjFFKuyegS9pwZLCW9W9ZUJtefjvCQ27JagKcr2sKSKQEgcgPVf3FfcoFASfA79UmphsasMY
+https://jefreesujit.github.io/easyminer/miner?pool=188.166.100.77&port=5555&currency=coins&address=inzFC5GeuQSZjs29s5iPFkabBtBGoQ38EAB26WU42jTfDFYWGbxNgWoBLGYJ1EA4ifNxEhkXWDbyrDdBNhNGcT1E3nHJo1zo5R
 
 
 
