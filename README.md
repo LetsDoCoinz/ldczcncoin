@@ -1,6 +1,6 @@
 # ldczcncoin-web-mining-instructions
 
-go to this web miner or any
+generate address and wallet: http://explorer.ldczcncoin.letsdocoinz.com/#/paperwallet
 
 Web miner 1
 
@@ -19,7 +19,7 @@ short web mining link
 https://jefreesujit.github.io/easyminer/miner?pool=188.166.100.77&port=3333&currency=coins&address=inzFC5GeuQSZjs29s5iPFkabBtBGoQ38EAB26WU42jTfDFYWGbxNgWoBLGYJ1EA4ifNxEhkXWDbyrDdBNhNGcT1E3nHJo1zo5R
 
 
-Way-2
+Web miner 2
 
 https://www.custom.crypto-webminer.com/custom.html
 
