@@ -1,4 +1,4 @@
-# ldczcncoin-web-mining-instructions
+# ldczcncoin and web-mining-instructions
 
 Ubuntu Source - compile wallet and generate address https://github.com/LetsDoCoinz/forknote
 
