@@ -1,8 +1,14 @@
 # ldczcncoin-web-mining-instructions
 
-simplewallet - compile wallet and generate address https://github.com/LetsDoCoinz/forknote
+Ubuntu Source - compile wallet and generate address https://github.com/LetsDoCoinz/forknote
 
-PAPER WALLET - http://explorer.ldczcncoin.letsdocoinz.com/#/paperwallet ( iuse in offline mode )
+Windows CLI WALLET -http://forknote.net/download/
+
+Config File - published soon
+
+Block Explorer & PAPER WALLET - http://explorer.ldczcncoin.letsdocoinz.com/#/paperwallet ( iuse in offline mode )
+
+Mining Pool - http://pool-ldczcncoin.letsdocoinz.com
 
 
 Web miner 1
@@ -30,10 +36,7 @@ https://www.custom.crypto-webminer.com/custom.html
 188.166.100.77:3333
 
 
-
-
-
-test dev address: inzFC5GeuQSZjs29s5iPFkabBtBGoQ38EAB26WU42jTfDFYWGbxNgWoBLGYJ1EA4ifNxEhkXWDbyrDdBNhNGcT1E3nHJo1zo5R
+dev team address use for testing: inzFC5GeuQSZjs29s5iPFkabBtBGoQ38EAB26WU42jTfDFYWGbxNgWoBLGYJ1EA4ifNxEhkXWDbyrDdBNhNGcT1E3nHJo1zo5R
 
 
 
