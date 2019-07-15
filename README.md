@@ -4,7 +4,7 @@ Ubuntu Source - compile wallet and generate address https://github.com/LetsDoCoi
 
 Windows CLI WALLET -http://forknote.net/download/
 
-Config File - published soon
+Config File - https://github.com/LetsDoCoinz/ldczcncoin/tree/master/configs
 
 Block Explorer & PAPER WALLET - http://explorer.ldczcncoin.letsdocoinz.com/#/paperwallet ( iuse in offline mode )
 
